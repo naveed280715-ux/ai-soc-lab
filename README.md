@@ -75,11 +75,11 @@ Airia AI - AI threat analysis |
 
 ### Kali Linux Detecting Suspicious Traffic
 
-![Kali Detection]
+![Kali Detection](kali_detection.png)
 
 ---
 
-### Ubuntu Attacker Generating ICMP Flood
+### Ubuntu VM Attack Traffic Generation
 
 ![Ubuntu Attack](ubuntu_attack.png)
 
@@ -88,6 +88,24 @@ Airia AI - AI threat analysis |
 ### Airia AI SOC Analysis Response
 
 ![Airia Response](airia_response.png)
+
+---
+
+### Kali Linux Virtual Machine
+
+![Kali Linux VM](kali_linux_vm.png)
+
+---
+
+### Ubuntu Virtual Machine
+
+![Ubuntu VM](Ubuntu_vm.png)
+
+---
+
+### SOC Pipeline Python Code
+
+![SOC Pipeline Code](soc_pipeline_code.png)
 ## Author
 
 Faisal Saleem
