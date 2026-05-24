@@ -71,7 +71,23 @@ Airia AI - AI threat analysis |
 - AI-assisted incident triage
 
 ---
+## Screenshots
 
+### Kali Linux Detecting Suspicious Traffic
+
+![Kali Detection]
+
+---
+
+### Ubuntu Attacker Generating ICMP Flood
+
+![Ubuntu Attack](ubuntu_attack.png)
+
+---
+
+### Airia AI SOC Analysis Response
+
+![Airia Response](airia_response.png)
 ## Author
 
 Faisal Saleem
