@@ -117,7 +117,7 @@ Shows the Ubuntu virtual machine configured as the attacker machine in the lab e
 
 Displays the Python automation script responsible for packet capture, traffic analysis, alert generation, and Airia AI integration.
 
-![SOC Pipeline Code](soc_pipeline_code.png)
+![SOC Pipeline Code](05-soc_pipeline_code.png)
 ## Author
 
 Faisal N Saleem
