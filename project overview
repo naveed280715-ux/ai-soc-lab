@@ -11,7 +11,7 @@ This project is an AI-powered SOC (Security Operations Center) monitoring lab bu
 - VirtualBox
 - Airia AI
 
-The system captures live network traffic, detects suspicious ICMP flood activity, generates JSON alerts, and sends alerts to Airia AI for automated SOC threat analysis and triage.
+The system captures live network traffic, detects suspicious ICMP flood activity, generates JSON alerts and sends alerts to Airia AI for automated SOC threat analysis and triage.
 
 ---
 
@@ -29,12 +29,12 @@ The system captures live network traffic, detects suspicious ICMP flood activity
 ## Lab Architecture
 
 Ubuntu VM (Attacker)
-↓
-Kali Linux SOC Monitor
-↓
-Python Detection Pipeline
-↓
-Airia AI Analysis
+        
+Kali Linux (SOC Monitor)
+        
+Python (Detection Pipeline)
+        
+Airia (AI Analysis)
 
 ---
 
