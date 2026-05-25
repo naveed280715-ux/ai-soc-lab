@@ -77,7 +77,7 @@ Airia AI - AI threat analysis |
 
 Shows Kali Linux detecting suspicious ICMP flood traffic and generating an alert for Airia AI analysis.
 
-![Kali Detection](kali_detection.png)
+![Kali Detection](06-kali_detection.png)
 
 ---
 
@@ -85,7 +85,7 @@ Shows Kali Linux detecting suspicious ICMP flood traffic and generating an alert
 
 Shows the Ubuntu attacker VM generating high-volume ICMP flood traffic toward the Kali SOC server.
 
-![Ubuntu Attack](ubuntu_attack.png)
+![Ubuntu Attack](07-ubuntu_attack.png)
 
 ---
 
@@ -93,7 +93,7 @@ Shows the Ubuntu attacker VM generating high-volume ICMP flood traffic toward th
 
 Displays the AI-generated SOC analysis including risk score, threat classification, and recommended actions.
 
-![Airia Response](airia_response.png)
+![Airia Response](08-airia_response.png)
 
 ---
 
@@ -101,7 +101,7 @@ Displays the AI-generated SOC analysis including risk score, threat classificati
 
 Shows the Kali Linux virtual machine used as the SOC monitoring and analysis server.
 
-![Kali Linux VM](kali_linux_vm.png)
+![Kali Linux VM](04-kali_linux_vm.png)
 
 ---
 
@@ -109,7 +109,7 @@ Shows the Kali Linux virtual machine used as the SOC monitoring and analysis ser
 
 Shows the Ubuntu virtual machine configured as the attacker machine in the lab environment.
 
-![Ubuntu VM](Ubuntu_vm.png)
+![Ubuntu VM](03-Ubuntu_vm.png)
 
 ---
 
